@@ -2,22 +2,81 @@
 
 <img src='https://github.com/coderkai03/coderkai03/blob/main/RC_Intro.gif' title='Rian Corcino' width='50%' alt='My Intro' />
 
+![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
+![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+
 ### About Me
 
 - 🔭 Currently developing **Android mobile apps** as a **Software Engineer intern** for startups. 🟢⚫
 - 🎓 Comp Sci major @ Riverside CC
 - 🌱 On the side, I’m building my own app, SmartStudy AI, for launch in the Google Play Store!
-- ⚡ Check out my <a href="https://www.linkedin.com/in/rian-corcino/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://www.youtube.com/@rian-corcino" target="_blank" rel="noreferrer noopener">Youtube 🔴</a>!
+- ⚡ Check out my <a href="https://www.linkedin.com/in/rian-corcino/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://instagram.com/rian.corcino" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
 
-### GitHub Stats
+### ⚡ Languages and Frameworks
+<table>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    </td>
+  </tr>
 
-- 🦾 Back: C/C++, Java, Python, Kotlin
-- 💻 Front: HTML/CSS, JavaScript, ReactJS
-- 🛠 Tech: Visual Studio Code, Android Studio
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
 
-<a href="https://github.com/coderkai03/coderkai03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&hide=makefile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/coderkai03/coderkai03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+  <tr>
+    <td>Styling</td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MaterialUI-0081CB.svg?style=flat-square&logo=MUI&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clerk-%23003D5E.svg?style=flat-square&logo=clerk"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
+      <img src="https://img.shields.io/badge/Supabase-%2300C389.svg?style=flat-square&logo=supabase"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Full Stack Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%20Testing%20Library-%23CC6699.svg?style=flat-square&logo=testing-library&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Machine Learning Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
+     </td>
+  </tr>
+</table>
