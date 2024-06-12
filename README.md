@@ -1,5 +1,7 @@
 ### Hi there, I'm Rian Corcino 👋
 
+<img src='https://github.com/coderkai03/coderkai03/blob/main/RC_Intro.gif' title='Rian Corcino' width='50%' alt='My Intro' />
+
 ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
 ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
 
