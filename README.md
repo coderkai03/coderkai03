@@ -80,3 +80,21 @@
      </td>
   </tr>
 </table>
+
+
+### 🏆 Hackathon Experiences
+I've competed in several hackathons to solve real-world problems. Here's a snapshot of my journey:
+
+To see my hackathon projects and achievements, check out my profile:
+
+[![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
+
+- **4 Hackathon Wins**
+- **5 Hackathons Attended**
+
+**Frequently Used Technologies:**
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
