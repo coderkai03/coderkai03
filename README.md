@@ -84,9 +84,9 @@
 
 
 ### 🏆 Hackathon Experiences
-I've competed in several hackathons to solve real-world problems. Here's a snapshot of my journey:
+I've competed in several hackathons to solve real-world problems.
 
-To see my hackathon projects and achievements, check out my profile:
+To see my projects and achievements, check out my Devpost profile:
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
 
