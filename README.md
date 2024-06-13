@@ -8,7 +8,8 @@
 ### About Me
 
 - 👋 Hi, I'm Rian! I'm a full-stack developer and AI enthusiast.
-- 🛠️ I'm currently building <a href="www.wecracked.com" target="_blank" rel="noopener noreferrer">WeCracked</a>, a community for helping students gain SWE experience via hackathons!
+- 🛠️ I'm currently building <a href="https://www.wecracked.com" target="_blank" rel="noopener noreferrer">WeCracked</a>
+, a community for helping students gain SWE experience via hackathons!
 - 🎓 AS in CS @ RCC '24 | BS in CS '26
 - 🌱 On the side, I’m building my own app, SmartStudy AI, for launch in the Google Play Store!
 - ⚡ Check out my <a href="https://www.linkedin.com/in/rian-corcino/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://instagram.com/rian.corcino" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
