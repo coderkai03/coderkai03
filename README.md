@@ -102,8 +102,12 @@
   </tr>
 </table>
 
-## 🤝Connect with me!!
+## 🤝 Connect with me!!
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riancorcino)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian.corcino)
+
+## 🧋 Favorite boba
+
+brown sugar
