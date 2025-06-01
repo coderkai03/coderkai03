@@ -24,13 +24,13 @@
 </div>
 
 
-### ➡️ About Me
+## ➡️ About Me
 
 - 👋 Hi, I'm Rian! I'm a full-stack/AI developer.
 - 🎓 CS @ Western Governors University
 - 🎯 I love building AI tools that enhance everyday life!
 
-### ✅ Languages and Frameworks
+## ✅ Languages and Frameworks
 
 <table>
   <tr>
