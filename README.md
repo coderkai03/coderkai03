@@ -12,12 +12,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
     alt="Rian's GitHub stats" 
-    height="200"
+    height="100"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
-    height="200"
+    height="100"
   />
 </p>
 
