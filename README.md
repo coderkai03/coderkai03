@@ -9,20 +9,23 @@
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
-    alt="Rian's GitHub stats" 
-    width="450" 
-    height="200"
-/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    width="450" 
-    height="200"
-/>
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+      alt="Rian's GitHub stats" 
+      width="450" 
+      height="200"
+    />
+  </span>
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
+      alt="Top Languages" 
+      width="450" 
+      height="200"
+    />
+  </span>
 </div>
-
 
 ## ➡️ About Me
 
