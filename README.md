@@ -1,5 +1,5 @@
 # Hi there, I'm Rian 👋
-## 2x SWE Intern @ Microsoft | 7x Hackathon Winner | 20K+ Content Creator | CS @ Western Governors University
+## 2x SWE Intern @ Microsoft | 10x Hackathon Winner | 20K+ Content Creator | CS @ Western Governors University
 
 <div align="center">
   
@@ -97,4 +97,4 @@
 
 ## 🧋 Favorite boba
 
-it's brown sugar
+it's taro
